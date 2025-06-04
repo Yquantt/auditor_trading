@@ -1,0 +1,44 @@
+{
+  "last_update": "03/06/2025",
+  "participacion_banner": "Participando en DarwinIA Silver - JUNIO",
+  "status_bar": {
+    "ranking": "576 \u2191",
+    "darwin": "PONA",
+    "score": "78.30",
+    "capital": "\u20ac30000.00"
+  },
+  "dashboard": [
+    {"label": "Rentabilidad (a origen)", "value": "8.33%", "class": "positivo"},
+    {"label": "Drawdown m\u00e1ximo", "value": "-6.70%", "class": "negativo"},
+    {"label": "Rentabilidad (\u00faltimos 6 meses)", "value": "11.08%", "class": "positivo"},
+    {"label": "Activos bajo gesti\u00f3n", "value": "60,000 \u20ac"}
+  ],
+  "monthly_returns": {
+    "2025": {
+      "Ene": {"value": "1.89%", "class": "positivo"},
+      "Feb": {"value": "3.35%", "class": "positivo"},
+      "Mar": {"value": "0.05%", "class": "positivo"},
+      "Abr": {"value": "5.41%", "class": "positivo"},
+      "May": {"value": "0.25%", "class": "positivo"},
+      "Jun": {"value": "0.07%", "class": "positivo"}
+    },
+    "2024": {
+      "Oct": {"value": "-2.60%", "class": "negativo"},
+      "Nov": {"value": "+0.12%", "class": "positivo"},
+      "Dic": {"value": "-0.30%", "class": "negativo"}
+    }
+  },
+  "stats_table": [
+    {"label": "Operaciones", "value": "442"},
+    {"label": "% exposici\u00f3n larga", "value": "85.88%"},
+    {"label": "Frecuencia diaria", "value": "2.57"},
+    {"label": "% ganadoras", "value": "56.56%"},
+    {"label": "Factor de beneficio", "value": "1.28"},
+    {"label": "Operaci\u00f3n ganadora media", "value": "0.17%"},
+    {"label": "Operaci\u00f3n perdedora media", "value": "-0.17%"},
+    {"label": "Ratio de payoff", "value": "0.98"},
+    {"label": "Duraci\u00f3n media perdedora", "value": "21h 6m"},
+    {"label": "Duraci\u00f3n media ganadora", "value": "21h 51m"},
+    {"label": "Ratio de duraci\u00f3n", "value": "1.04"}
+  ]
+}
